@@ -1,4 +1,4 @@
-![Devo Image](devo.png)
+![Devo Image](https://github.com/DevoInc/.github/blob/master/profile/devo.png)
 
 About Devo
 ------

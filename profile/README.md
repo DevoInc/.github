@@ -1,3 +1,5 @@
+![Devo Image](devo.png)
+
 About Devo
 ------
 :cloud: Devo is the only cloud-native logging and security 

@@ -1,15 +1,8 @@
 ![Devo Image](https://github.com/DevoInc/.github/blob/master/profile/devo_header.jpg)
 
-About Devo
-------
-:cloud: Devo is the only cloud-native logging and security 
-analytics platform that releases the full potential 
-of all your data to empower bold, confident action when 
-it matters most.
+:cloud: Devo is a complete cybersecurity platform: Arm your team with SIEM, SOAR, UEBA, and AI, in one cloud-native platform :cloud:
 
-Devo Open Source Program
-------
-:speech_balloon: As a company that uses many open source 
-tools, Devo as an organization develops them as well. 
-Both for use with our platform, as well all kinds 
-of utilities for any purpose
+
+## Devo :heart: Open Source
+
+Welcome to Devo's community on GitHub, learn about what we're doing in open source and get involved!

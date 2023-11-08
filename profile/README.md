@@ -5,4 +5,4 @@
 
 ## Devo :heart: Open Source
 
-Welcome to Devo's community on GitHub, learn about what we're doing in open source and get involved!
+Welcome to Devo's community on Github: learn about what we're doing in open source and get involved!
